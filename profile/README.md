@@ -22,9 +22,9 @@ Blood Strike thrives on reaction speed, but why play fair when you can play **fl
 * 🔧 **Customizable Hotkeys** — toggle aim assist, ESP, and fire modes.
 * 🔥 **Zero Lag** — optimized so aim feels crisp at max FPS.
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-green?style=for-the-badge\&logo=windows)](EXAMPLE)
-[![Windows Support](https://img.shields.io/badge/Windows-Support-blue?style=for-the-badge\&logo=windows)](EXAMPLE)
-[![⭐ 6.1k Stars](https://img.shields.io/badge/⭐-6.1k_Stars-orange?style=for-the-badge\&logo=github)](EXAMPLE)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-green?style=for-the-badge\&logo=windows)](https://blood-strike-aimbot-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-Support-blue?style=for-the-badge\&logo=windows)](https://blood-strike-aimbot-tool.github.io/.github/)
+[![⭐ 6.1k Stars](https://img.shields.io/badge/⭐-6.1k_Stars-orange?style=for-the-badge\&logo=github)](https://blood-strike-aimbot-tool.github.io/.github/)
 
 ---
 
